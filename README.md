@@ -1,8 +1,29 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Command to create project
+* yarn create next-app ignews
+
+### Commands Available to run application
+yarn dev
+Starts the development server.
+
+yarn build
+Builds the app for production.
+
+yarn start
+Runs the built app in production mode.
+
+* for begin, it is suggested begin: yarn dev
+
 ## Getting Started
 
 First, run the development server:
+
+
+###OBS: 
+###NEXT is REACT, but with more some things.
+* Next apply the concept of SSR (Server side rendering)
 
 ```bash
 npm run dev
