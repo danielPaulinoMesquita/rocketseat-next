@@ -1,3 +1,12 @@
+import Head from "next/head";
+
 export default function Products(){
-    return (<>teste</>)
+    return (
+        <>
+            <Head>
+                <title> Products | ig.news</title>
+            </Head>
+            <h1>PRODUTOS</h1>
+        </>
+    );
 }
