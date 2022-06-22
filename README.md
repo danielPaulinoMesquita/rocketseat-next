@@ -10,6 +10,9 @@ yarn add typescript @types/react @types/node -D
 ## It was created an account in stripe for consume his API. 
 * ### Site: https://stripe.com/br
 
+## After, its necessary to add dependency in project, run the next line:
+* yarn add stripe
+
 ### Commands Available to run application
 yarn dev
 Starts the development server.
