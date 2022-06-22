@@ -7,6 +7,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## for you use typescript in the project and then to modify extension of files
 yarn add typescript @types/react @types/node -D
 
+## It was created an account in stripe for consume his API. 
+* ### Site: https://stripe.com/br
+
 ### Commands Available to run application
 yarn dev
 Starts the development server.
