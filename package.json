@@ -14,7 +14,7 @@
     "react-dom": "18.1.0",
     "react-icons": "^4.4.0",
     "sass": "^1.52.2",
-    "stripe": "^9.9.0"
+    "stripe": "^10.3.0"
   },
   "devDependencies": {
     "@types/node": "^17.0.38",
